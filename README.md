@@ -15,7 +15,20 @@ struct Skills {
     let skills = ["Design patterns", "TDD", "SOLID principles"]
 }
 ```
+### <h2> Recent projects</h2>
 
+<h3> [iOS Lead Essentials](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/#what-is-the-ios-lead-essentials) challenges: </h3>
+
+
+
+
+1️⃣ &nbsp;- API Challenge
+
+2️⃣ &nbsp;- Networking Challenge
+
+3️⃣ &nbsp;- UI Design patterns Challenge
+
+4️⃣ &nbsp;- Image Comments Challenge
 
 
 <!--
