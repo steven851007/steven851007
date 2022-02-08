@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
@@ -15,21 +16,37 @@ struct Skills {
     let skills = ["Design patterns", "TDD", "SOLID principles"]
 }
 ```
+
 ### <h2> Recent projects</h2>
 
-<h3> [iOS Lead Essentials](https://iosacademy.essentialdeveloper.com/p/ios-lead-essentials/#what-is-the-ios-lead-essentials) challenges: </h3>
+<h3> iOS Lead Essentials challenges: </h3> 
 
 
+1️⃣ &nbsp;- [API Challenge](https://github.com/steven851007/ios-lead-essentials-feed-api-challenge)
+
+2️⃣ &nbsp;- [Caching Challenge](https://github.com/steven851007/ios-lead-essentials-feed-store-challenge)
+
+3️⃣ &nbsp;- [UI Design Patterns Challenge](https://github.com/steven851007/ios-lead-essentials-ui-design-patterns-challenge-public)
+
+4️⃣ &nbsp;- [Image Comments Challenge](https://github.com/steven851007/ios-lead-essentials-image-comments-challenge-public)
 
 
-1️⃣ &nbsp;- API Challenge
+<hr>
 
-2️⃣ &nbsp;- Networking Challenge
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steven851007&show_icons=true)
 
-3️⃣ &nbsp;- UI Design patterns Challenge
+<hr>
 
-4️⃣ &nbsp;- Image Comments Challenge
+<h3> 🤝🏻 Connect with Me </h3>
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/baloghistvan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Istvan%20Balogh-blue?style=flat-square&logo=linkedin"></a>
+
+</p>
+
+
+<hr>
 
 <!--
 **steven851007/steven851007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
